@@ -1,0 +1,1 @@
+SUBDIRS=HueGlib include exampleProgram
